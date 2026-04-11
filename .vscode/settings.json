@@ -8,9 +8,12 @@
         "core",
         "create",
         "dev-server",
+        "elasticsearch-plugin",
         "email-plugin",
         "harden-plugin",
         "job-queue-plugin",
+        "sentry-plugin",
+        "stellate-plugin",
         "testing",
         "ui-devkit",
         "repo",
@@ -22,5 +25,6 @@
     "sonarlint.connectedMode.project": {
         "connectionId": "vendure-ecommerce",
         "projectKey": "vendure-ecommerce_vendure"
-    }
+    },
+    "vsicons.presets.nestjs": true
 }

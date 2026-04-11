@@ -1,0 +1,20 @@
+{
+  "name": "vendure-translate-tools",
+  "version": "1.0.0",
+  "description": "Vendure Dashboard magyar fordítói eszközkészlet",
+  "private": true,
+  "scripts": {
+    "glossary": "tsx generate-glossary.ts",
+    "translate": "tsx translate-vendure.ts",
+    "check": "tsx context-check.ts",
+    "full": "npm run glossary && npm run translate"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  }
+}
