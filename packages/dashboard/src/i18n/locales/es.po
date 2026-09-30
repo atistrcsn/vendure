@@ -2224,6 +2224,21 @@ msgstr "Descripción"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
+msgid "fieldName.discountedLinePrice"
+msgstr "Precio de línea con descuento"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.discountedLinePriceWithTax"
+msgstr "Precio de línea con descuento e impuestos"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.discounts"
+msgstr "Descuentos"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
 msgid "fieldName.duration"
 msgstr "Duración"
 
@@ -2264,6 +2279,11 @@ msgstr "Código de controlador de cumplimiento"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
+msgid "fieldName.fulfillmentLines"
+msgstr "Líneas de cumplimiento"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
 msgid "fieldName.id"
 msgstr "ID"
 
@@ -2289,6 +2309,21 @@ msgstr "Apellido"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
+msgid "fieldName.linePrice"
+msgstr "Precio de línea"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.linePriceWithTax"
+msgstr "Precio de línea con impuestos"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.lineTax"
+msgstr "Impuesto de línea"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
 msgid "fieldName.name"
 msgstr "Nombre"
 
@@ -2296,6 +2331,11 @@ msgstr "Nombre"
 #: src/i18n/common-strings.ts
 msgid "fieldName.orderPlacedAt"
 msgstr "Pedido realizado en"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.orderPlacedQuantity"
+msgstr "Cantidad al realizar el pedido"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
@@ -2334,6 +2374,11 @@ msgstr "Precio con impuestos"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
+msgid "fieldName.productVariant"
+msgstr "Variante de producto"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
 msgid "fieldName.productVariants"
 msgstr "Variantes de producto"
 
@@ -2341,6 +2386,21 @@ msgstr "Variantes de producto"
 #: src/i18n/common-strings.ts
 msgid "fieldName.progress"
 msgstr "Progreso"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.proratedUnitPrice"
+msgstr "Precio unitario prorrateado"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.proratedUnitPriceWithTax"
+msgstr "Precio unitario prorrateado con impuestos"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.quantity"
+msgstr "Cantidad"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
@@ -2421,6 +2481,16 @@ msgstr "Total con impuestos"
 #: src/i18n/common-strings.ts
 msgid "fieldName.type"
 msgstr "Tipo"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.unitPrice"
+msgstr "Precio unitario"
+
+#. js-lingui-explicit-id
+#: src/i18n/common-strings.ts
+msgid "fieldName.unitPriceWithTax"
+msgstr "Precio unitario con impuestos"
 
 #. js-lingui-explicit-id
 #: src/i18n/common-strings.ts
